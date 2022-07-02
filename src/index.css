@@ -1,0 +1,16 @@
+body {
+	overflow: hidden;
+	box-sizing: border-box;
+	margin: 0;
+	font-family: 'Inter',	sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background:  url('./Components/wave.svg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: center;
+
+	max-height: 100vh;
+}
+
